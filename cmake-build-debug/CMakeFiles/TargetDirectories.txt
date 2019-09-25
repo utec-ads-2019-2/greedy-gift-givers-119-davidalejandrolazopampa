@@ -1,0 +1,3 @@
+C:/Users/David Lazo/Documents/GitHub/greedy-gift-givers-119-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/David Lazo/Documents/GitHub/greedy-gift-givers-119-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/greedy_gift_givers_119_davidalejandrolazopampa.dir
+C:/Users/David Lazo/Documents/GitHub/greedy-gift-givers-119-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/edit_cache.dir
